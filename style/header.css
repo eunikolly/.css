@@ -1,0 +1,44 @@
+   .cabecalho{
+    display:flex;
+    justify-content:space between;
+    background-color:var(--branco);
+    align-items: center;
+    position: relative;
+    }
+  
+ .cabecalho -- menn{
+  display:inline-block;
+  background-image:vrl("../img/menu.sug");
+  background-repeat: no-repeat;
+  background-position:center;
+  width:24px;
+  height:24px;
+ }
+ .container{
+  display:flex;
+  justify-content: 
+  space-between;
+ }
+.container--imagem{
+  padding:1em;
+}
+
+.lista--menu{
+display:none ;
+background-color:var(--branco);
+position:absolute;
+top:100%
+width:60vw;
+} 
+.container--botao}
+ display:nome; 
+}
+lista--menn-titulo {
+font-weight:700;
+color:var(--amarelo);
+}
+.lista--menu-item{
+padding:
+.lista
+
+
